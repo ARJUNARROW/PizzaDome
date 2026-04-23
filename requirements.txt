@@ -1,0 +1,25 @@
+Pizza Dome - Project Requirements
+
+SOFTWARE PREREQUISITES:
+- Node.js (v16.0.0 or higher)
+- npm (v8.0.0 or higher)
+- MongoDB (v6.0 or higher)
+
+FRONTEND DEPENDENCIES:
+- react
+- react-dom
+- vite
+
+BACKEND DEPENDENCIES:
+- express
+- mongoose
+- razorpay
+- dotenv
+- cors
+
+API KEYS REQUIRED:
+- RAZORPAY_KEY_ID
+- RAZORPAY_KEY_SECRET
+
+DATABASE:
+- MongoDB Connection URI
